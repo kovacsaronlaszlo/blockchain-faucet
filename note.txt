@@ -1,0 +1,6 @@
+linux fedora installation:
+download ganache .AppImage file
+move it somewhere else from downloads: mv ganache.AppImage your_path/ganache.AppImage
+commands below:
+chmod +x ganache.AppImage
+./ganache.AppImage
