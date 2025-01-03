@@ -1,6 +1,14 @@
 linux fedora installation:
 download ganache .AppImage file
 move it somewhere else from downloads: mv ganache.AppImage your_path/ganache.AppImage
+change dir to ganache directory
 commands below:
 chmod +x ganache.AppImage
 ./ganache.AppImage
+
+
+
+other notes:
+ABI - application binary interface
+some.sol ==compile==> ABI ==migrate==> Blockchain
+for that use truffle compile command in terminal
